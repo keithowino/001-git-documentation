@@ -6,6 +6,9 @@
 body {
   background-color: #eee; }
 
+p {
+  padding: 0.3125em; }
+
 .l-s-t-s {
   line-height: 4em;
   text-transform: uppercase;
@@ -14,7 +17,10 @@ body {
 main {
   margin-bottom: 3em; }
 
-.l-cold-feet-protocal {
+.l-cold-feet-p {
+  text-align: right; }
+
+.l-cold-feet-protocol {
   font-style: italic;
   color: #09012c;
   font-weight: 700; }
