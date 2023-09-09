@@ -9,6 +9,15 @@ body {
 p {
   padding: 0.3125em; }
 
+code {
+  font-family: "Courier New", Courier, monospace;
+  background-color: #09012c;
+  color: #fff;
+  padding: 0.5em;
+  border-radius: 0.6em;
+  display: inline-block;
+  margin-left: 2%; }
+
 .l-s-t-s {
   line-height: 4em;
   text-transform: uppercase;
